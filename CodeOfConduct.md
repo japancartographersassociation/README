@@ -58,4 +58,4 @@
 ---
 
 ## ライセンス
-この行動規範の英語版は、Ada Initiative及びボランティアによって作成された [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) 上のものをforkしたものです。元のCode of Conduct は [Creative Commons Zeroライセンス](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) で公開されています。
+この行動規範の英語版は、Ada Initiative及びボランティアによって作成された [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) 上のものをfork、改変したものです。元のCode of Conduct は [Creative Commons Zeroライセンス](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) で公開されています。
