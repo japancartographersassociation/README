@@ -12,5 +12,5 @@
 
 
 ## 広報・ITメンバー関連
-* ウェブサイト管理方法
+* [ウェブサイト管理方法](./docs/WebsiteAdministrationManual.md)
 * 各種SNSアカウント運用方法
