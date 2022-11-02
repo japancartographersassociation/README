@@ -1,7 +1,7 @@
 # Website Administration Manual v0.1
 
 ## 権限付与について
-* [IT-Admin Team](https://github.com/orgs/japancartographersassociation/teams/it-admin)
+* ウェブサイトの管理権限を持つメンバーは [IT-Admin Team](https://github.com/orgs/japancartographersassociation/teams/it-admin) に個人GitHubアカウントを登録する必要があります。事前に GitHub アカウントをサインアップ後、そのアカウントの Profile Permalink URL をメンバーに共有してください。詳細は Facebook Messenger の **日本地図学会「広報・IT委員会」グループチャット** でメンバーにご相談ください。
 
 ## トップページの更新方法
 
