@@ -1,5 +1,7 @@
 # Website Administration Manual v0.1
 
+2025年12月末までの運用。2026年以降はWordPress管理に変更した。運用マニュアルはウェブサイト内に記載。
+
 <img width="1172" alt="スクリーンショット 2023-12-22 9 13 44" src="https://github.com/japancartographersassociation/README/assets/416977/ef6ce94a-6baa-477f-99b2-bf52a0af51e1">
 
 ## 権限付与について
@@ -9,19 +11,9 @@
 * [readme4private](https://github.com/japancartographersassociation/readme4private) リポジトリに詳細情報が記載されています。IT-Admin Team に加わることでアクセス権限付与されるので、**日本地図学会「広報・IT委員会」グループチャット** でメンバーにご相談ください。
 
 ## トップページの更新方法
-
-
 ## INFORMATIONの更新方法
-
-
 ## TOPICSの更新方法
-
-
 ## noteの更新方法
-
-
 ## インタビュー動画の更新方法
-
-
 ## 表彰実績の更新方法
 
